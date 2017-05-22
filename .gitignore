@@ -1,1 +1,5 @@
-*swp
+# files to be ignored
+
+*.swp
+*.bdg
+*.bim
